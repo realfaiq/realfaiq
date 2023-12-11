@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiq Ahmad</h1>
 <h3 align="center">A coding enthusiast from Pakistan, I sculpt solutions in the realms of Deep Learning, Computer Vision, and NLP, orchestrating the symphony of MLOPS.</h3>
 
-<img align = “right” width = “400” alter = “code” src = “https://images.app.goo.gl/CJPsQssHC4qq7UCb9”>
+<img align = “right” width = “400” alt = “code” src = “https://images.app.goo.gl/CJPsQssHC4qq7UCb9”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realfaiq&label=Profile%20views&color=0e75b6&style=flat" alt="realfaiq" /> </p>
 
