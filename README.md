@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiq Ahmad</h1>
 <h3 align="center">A coding enthusiast from Pakistan, I sculpt solutions in the realms of Deep Learning, Computer Vision, and NLP, orchestrating the symphony of MLOPS.</h3>
 
-<img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="MasterHead" data-canonical-src="https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" alt="coding" width="900" height = "500" src= "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realfaiq&label=Profile%20views&color=0e75b6&style=flat" alt="realfaiq" /> </p>
 
